@@ -52,7 +52,7 @@ Encapsulates actions and application logic using the **Command Pattern**.
 - `Command`: Interface representing a user or system action.
 - `CommandRunner`: Executes commands and updates state/history.
 - Counter Commands:
-  - `IncCounter`
+  - `AddCounter`
   - `ResetCounter`
 - Media Commands:
   - `SetPickedImage`
